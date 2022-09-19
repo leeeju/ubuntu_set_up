@@ -101,7 +101,8 @@ PC 의 시스템 셋업( System Setup )의 부트 순서( Boot Priority ) 중 US
 
 아래 그림보다는 복잡한 상황이겠지만 윈도우 **디스크 관리자** 에서 확보한 **빈 공간** 만큼의 **'남은 공간'** 을 확인, 선택하고 **[ + ]** 버튼을 클릭한다.  
 
-<img src="../img/ubuntu/1604/03_setup_where.png" width="50%"><img src="../img/ubuntu/1604/04_add_partition.png" width="50%">
+
+![uuu](https://user-images.githubusercontent.com/84003327/191024794-d7f58004-9f6c-4b10-a2c7-4f23dd7b996b.png)
 
 
 
