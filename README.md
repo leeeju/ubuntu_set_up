@@ -47,7 +47,7 @@ MBR 파티션을 선택할 경우 USB 디스크로 부팅하기 위해 필요한
 
 마지막 경고창은 이미지기록이 일단 진행되면 해당 USB 디스크의 내용은 복구 불가능하기 때문에 엉뚱한 USB 디스크에 기록하는 것이 아닌가 최종 확인하는 과정이다.
 
-![asd](https://user-images.githubusercontent.com/84003327/191019999-704458f8-f3c8-4557-b71b-2e0e219a5d5c.png)
+![123](https://user-images.githubusercontent.com/84003327/191023998-029de8cb-cb19-455e-96f7-e25346ca7985.png)
 
 
 
