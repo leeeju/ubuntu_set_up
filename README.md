@@ -95,7 +95,7 @@ PC 의 시스템 셋업( System Setup )의 부트 순서( Boot Priority ) 중 US
 
 네트워크에 연결되어있을 경우에는 **'업데이트 다운로드'** 및 **'추가 소프트웨어 설치'** 에 체크한다. ( 설치 후에도 가능한 작업들이므로 건너 띄어도 상관없다. )
 
-![333](https://user-images.githubusercontent.com/84003327/191020974-8d1f8d93-8228-4342-9971-cb8e58e9bb65.png)
+![ggg](https://user-images.githubusercontent.com/84003327/191024518-972817e7-b9d5-4d93-b5ed-da09b30ea759.png)
 
 윈도우에서 볼륨을 축소하여 확보한 할당되지 않은 공간에 설치할 것이므로 **'기타'** 를 선택하고 **'계속'** 을 클릭한다.
 
